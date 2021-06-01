@@ -20,19 +20,26 @@ main {
 }
 
 h1 {
-    color: limegreen;
+    font-size: 22px;
+    color: #34a853;
     padding-bottom: 10px;
+}
+
+h2 {
+    font-size: 18px;
+    color: #fbbc05;
+
 }
 
 
 h3 {
-    color: greenyellow;
-    font-size: 16px;
+    color: #ea4335;
+    font-size: 14px;
     padding: 5px;
 }
 
 span {
-    color: gray;
+    color: #3f7be2;
     font-size: 10px;
     padding: 30px;
 }

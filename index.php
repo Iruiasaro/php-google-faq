@@ -56,7 +56,8 @@ Ci sono diverse domande con relative risposte. Gestire il “Database” e la vi
 <body>
 
   <main>
-    <h1>Google Privacy e Termini - FAQ</h1>
+    <h1>Google Privacy e Termini</h1>
+    <h2>FAQ</h2>
     <?php
       foreach ($arrayFaq as $reply) {
         echo "<h3>{$reply['question']}</h3>";
