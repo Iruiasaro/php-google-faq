@@ -12,3 +12,27 @@ html {
 body {
     text-align: center;
 } 
+
+main {
+    width: 70%;
+    margin: auto;
+
+}
+
+h1 {
+    color: limegreen;
+    padding-bottom: 10px;
+}
+
+
+h3 {
+    color: greenyellow;
+    font-size: 16px;
+    padding: 5px;
+}
+
+span {
+    color: gray;
+    font-size: 10px;
+    padding: 30px;
+}
